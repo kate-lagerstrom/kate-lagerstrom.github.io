@@ -1,49 +1,47 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+![alt text](images/prairie.png)
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+"As I looked about me, I felt that the grass was the country, as the water is the sea. The red of the grass made all the great prairie the color of wine stains, or of certain seaweeds when they are first washed up. And there was so much motion in it; the whole country seemed, somehow, to be running.”
+― **Willa Cather, <i>My Ántonia</i>**
+{: .notice}
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+Home is Nebraska
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+I have many fond memories of growing up in Nebraska. I spent my childhood outdoors with my brother and the neighbor kids riding bikes, playing four-square, digging for worms, pretending to be the “Boxcar Children” under the porch, and playing “Ghost in the Graveyard” after the sun went down. I'm grateful to my mom who encouraged this and implored the coordinators of a summer nature camp to let me start a year early, at the age of 5. I absolutely loved it. My favorite camp counselors were nicknamed “Bones” and “Roadkill”, and we went on hikes, dug through owl pellets, took cast molds of animal tracks, and played in the soft clay at the bottom of the river. When I wasn’t outside, I spent hours glued to the TV watching the Crocodile Hunter. I was absolutely obsessed with Steve Irwin and wanted to grow up to be just like him. I accredit the earliest of my fascination with wildlife to him. He was also the reason I begged my mom for a pet snake. When she finally gave in, I got a corn snake, whom I named Freckles for the spots down his back (but "Spot" was a dog name). I kept an eclectic mix of pets including ducks, mice, frogs, fish, dogs, cats, and various interesting insects that occupied my bug box (built-in magnifying glass included). Nebraska will always be home to me, and I’m proud to say that I’ve made at least one trip to the native tallgrass prairie near my home every year of my life so far (including the one spent <i>in utero</i>). I still spend as much time as I can outdoors, but now it’s walking my Gordon Setter, Kona, or reading a good book. 
 
-Create content & metadata
+<img src="images/kona.png" 
+        alt="Kona" 
+        width="400" 
+        height="200" 
+        style="display: block; margin: 0 auto" />
+
+The perpetual student
+-------
+I completed my undergraduate career at the University of Nebraska-Lincoln (go Huskers!) where I double-majored in Microbiology and Environmental Studies and minored in Mathematics. I was also a member of a lab in the Plant Pathology Department where I learned invaluable technical lab and research skills from my graduate student mentor as we studied the pathogenesis of the common crop pathogen, <i>Pseudomonas syringae</i>. I also spent a semester abroad in Dunedin, New Zealand, at the University of Otago. While traveling after classes, I had the chance to spend a month in Thailand and Malaysia. There, I witnessed the increasing challenges of a growing world population and saw the effects of climate change firsthand. I also observed poverty worse than I had ever imagined. These experiences solidified my decision to apply to graduate school in biological research; I saw a realistic opportunity to contribute to improving life on a global scale. 
+
+Thus, I spent the next six years experiencing life on the West Coast, in Palo Alto, California, where I completed my PhD in the Ecology and Evolution track of the Biology Department at Stanford University. For my dissertation work, I investigated the ecology and evolution of <i>Escherichia coli</i> in wild animals using a combination of culture-based methods and whole genome sequencing. Broader impacts of this work include informing the propensity for wildlife to harbor and transmit pathogenic and antibiotic-resistant <i>E. coli</i> and even act as "melting pots" of novel genetic combinations that could threaten global public health. 
+
+Soon, I will venture to the East Coast to begin a post-doctoral research position at Princeton University in the Ecology and Evolutionary Biology Department where I will continue to study the effects of anthropogenic pollution on host-associated microbial communities, seeking to disentangle the ecological interactions between wild animal microbiomes, their immune systems, and pathogens, to safeguard human and animal health and inform conservation efforts.
+
+
+Quotes that motivate me
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+“Most of what is understandable is not yet understood.” (Unknown)
 
-**Markdown generator**
+“The more you know, the more you know you don’t know.” (Aristotle)
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+“There are known knowns. These are things we know that we know. There are known unknowns. That is to say, there are things that we know we don't know. But there are also unknown unknowns. There are things we don't know we don't know.” (Donald Rumsfeld)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+“Just keep swimming, swimming, swimming.” (Dory, Finding Nemo)
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+**Acknowledgements**
+A fair amount of time into graduate school, the only things I associated the word “terminal” with had to do with air travel or unwanted diagnoses. To-date, my progress with coding has advanced on a need-to-know basis. (I’ll admit, despite many frustrations, the rush from successfully troubleshooting code is kind of addictive). I couldn’t have accomplished the feat of website creation without the incredibly thorough help of Rob Williams’ blog post [Building an Academic Website](https://jayrobwilliams.com/posts/2020/06/academic-website/) and Moncef Belyamani’s post [The fastest and easiest way to install Ruby on a Mac in 2024](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#configure-your-shell).
+{: .notice}
