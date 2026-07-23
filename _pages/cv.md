@@ -11,6 +11,10 @@ redirect_from:
 
 Download a PDF version of my CV [here](http://kate-lagerstrom.github.io/files/Lagerstrom_Katherine_M_CV.pdf)
 
+Professional experience
+------
+* October 2024-Present: Postdoctoral Research Associate, Department of Ecology and Evolutionary Biology, **Princeton University**
+
 Education
 ------
 * Ph.D. in Biology, **Stanford University**, 2023
@@ -54,6 +58,12 @@ Publications
   
 Presentations at professional meetings
 ------
+* **Lagerstrom, K. M.** and Moeller, A. H. Strain-resolved analyses provide evidence for human-to-animal bacterial transmission in captivity. Poster Presentation at: Ecology and Evolution of Infectious Disease Conference; 2026 June; Blacksburg, VA, U.S.A.
+
+* **Lagerstrom, K. M.** and Moeller, A. H. Strain-resolved analyses reveal bacterial transmission from humans to captive mammals. Poster Presentation at: Eastern Regional Ecology and Evolution of Infectious Disease Conference; 2025 November; State College, PA, U.S.A.
+
+* **Lagerstrom, K. M.** and Moeller, A. H. Strain-resolved analyses reveal bacterial transmission from humans to captive mammals. Poster Presentation at: Ecology and Evolution of Infectious Disease Conference; 2025 June; South Bend, IN, U.S.A.
+
 * **Lagerstrom, K. M.** and Hadly, E. A. Understanding the eco-evolutionary dynamics of *Escherichia coli* in animals at the wildland-urban interface for public health and conservation. Poster Presentation at: Ecology and Evolution of Infectious Disease Conference; 2024 June; Stanford, CA, U.S.A.
 
 * **Lagerstrom, K. M.** and Hadly, E. A. Understanding the eco-evolutionary dynamics of *Escherichia coli* in animals at the wildland-urban interface for public health and conservation. Poster Presentation at: ESA Annual Meeting; 2023 August; Portland, OR, U.S.A.
@@ -73,34 +83,16 @@ Invited talks
 * Alumni Fireside Chat for CASNR Honors Program, University of Nebraska-Lincoln; 2024 April; Lincoln, NE, U.S.A.
 * “The wild side of E. coli: Investigating the distribution and diversity of *Escherichia coli* in wild animals at Jasper Ridge”; Jasper Ridge Biological Preserve Evening Lecture Series; 2022 April; Stanford, CA, U.S.A.
 * “ABR and Public Health”; ENVR189H Honors Seminar, University of Nebraska-Lincoln; 2020 November; Lincoln, NE, U.S.A.
-
-Teaching and mentorship
-------
-* 2022-Present **Research mentor**; *40 high school students’ independent research projects*, Polygence
-
-* 2022 **Teaching assistant**; *Ecology (Bio 81)*, Stanford University
-
-* 2022 **Instructor/course designer**; *Introduction to Nanopore Sequencing*, Stanford University
-
-* 2022 **Research mentor**; Engage with Girls is STEM (EWGIS) Research Program
-
-* 2020 **Research mentor**; *Basser Program*, Stanford University
-
-* 2019 **Research mentor**; *Biology Summer Undergraduate Research Program (BSURP)*, Stanford University
-
-* 2018 **Research mentor**; *Vice Provost for Undergraduate Education (VPUE) Summer Research Program*, Stanford University
-
-* 2018 **Teaching assistant**; *Ecology for Everyone (Bio 30)*, Stanford University
-
-* 2018 **Teaching assistant**; *Ecology (Bio 81)*, Stanford University
-
-* 2013-2014 **Teacher**; *YWCA SMART Girls after-school program*, McPhee Elementary
-
-* 2011-2014 **Teaching assistant**; *Bright Lights Summer Camp*, Lincoln Public Schools
   
 Service and leadership
 ------
-* 2024-Present **Executive committee member**; *Board of Trustees*, Applied Microbiology International (AMI)
+* 2026–Present	**Volunteer reviewer**; Journal of Emerging Investigators (JEI)
+
+* 2025–Present	**Co-chair**; *One Health Advisory Group*, Applied Microbiology International (AMI)
+
+* 2025–Present	**Pacific Committee member**; Microbiome Virtual International Forum
+
+* 2024-Present **Trustee**; *Board of Trustees*, Applied Microbiology International (AMI)
 
 * 2024-Present **Member**; *One Health Advisory Group*, Applied Microbiology International (AMI)
 
@@ -133,3 +125,49 @@ Service and leadership
 * 2014-2016 **President**; *Microbiology Club*, University of Nebraska-Lincoln
 
 * 2014, 2016 **Lab station coordinator**; *UNL Women in Science Conference*, University of Nebraska-Lincoln
+
+Teaching and mentorship
+------
+* 2022-Present **Research mentor**; *60 high school students’ independent research projects*, Polygence
+
+* 2022 **Teaching assistant**; *Ecology (Bio 81)*, Stanford University
+
+* 2022 **Instructor/course designer**; *Introduction to Nanopore Sequencing*, Stanford University
+
+* 2022 **Research mentor**; Engage with Girls is STEM (EWGIS) Research Program
+
+* 2020 **Research mentor**; *Basser Program*, Stanford University
+
+* 2019 **Research mentor**; *Biology Summer Undergraduate Research Program (BSURP)*, Stanford University
+
+* 2018 **Research mentor**; *Vice Provost for Undergraduate Education (VPUE) Summer Research Program*, Stanford University
+
+* 2018 **Teaching assistant**; *Ecology for Everyone (Bio 30)*, Stanford University
+
+* 2018 **Teaching assistant**; *Ecology (Bio 81)*, Stanford University
+
+* 2013-2014 **Teacher**; *YWCA SMART Girls after-school program*, McPhee Elementary
+
+* 2011-2014 **Teaching assistant**; *Bright Lights Summer Camp*, Lincoln Public Schools
+
+Fellowships and grants
+------
+* 2026	Gordon and Betty Moore Foundation Postdoctoral Commitment Program	Postdoctoral salary support
+
+* 2018–2020	Philippe Cohen Fellowship	Stipend/tuition
+
+* 2018	Mellon Grant (Research)	$6000 USD
+
+* 2015–2016	Samuel and Martha McKelvie Scholarship	$1400 USD
+
+* 2015–2016	William McGeachin Memorial Scholarship	$1010 USD
+
+* 2015, 2016	Milton E. Mohr Biotechnology Degree Program Scholarship	$1000 USD/year
+
+* 2015 Koch Discovery Scholarship 1000 USD
+
+* 2014–2016	Undergraduate Creative Activities and Research Experience (UCARE) recipient 
+Research stipend
+
+* 2012–2017	Regents Scholarship 	Tuition
+
