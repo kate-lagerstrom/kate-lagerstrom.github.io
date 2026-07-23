@@ -152,22 +152,8 @@ Teaching and mentorship
 
 Fellowships and grants
 ------
-* 2026	Gordon and Betty Moore Foundation Postdoctoral Commitment Program	Postdoctoral salary support
+* 2026	Gordon and Betty Moore Foundation Postdoctoral Commitment Program	
 
-* 2018–2020	Philippe Cohen Fellowship	Stipend/tuition
+* 2018–2020	Philippe Cohen Fellowship
 
-* 2018	Mellon Grant (Research)	$6000 USD
-
-* 2015–2016	Samuel and Martha McKelvie Scholarship	$1400 USD
-
-* 2015–2016	William McGeachin Memorial Scholarship	$1010 USD
-
-* 2015, 2016	Milton E. Mohr Biotechnology Degree Program Scholarship	$1000 USD/year
-
-* 2015 Koch Discovery Scholarship 1000 USD
-
-* 2014–2016	Undergraduate Creative Activities and Research Experience (UCARE) recipient 
-Research stipend
-
-* 2012–2017	Regents Scholarship 	Tuition
 
