@@ -1,19 +1,33 @@
 ---
+layout: archive
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+<div style="position:relative; margin:0 0 1rem 0;">
+  <img src="/images/prairie.jpg"
+       alt="Tallgrass prairie at Spring Creek Prairie Audubon Center in Denton, Nebraska"
+       style="display:block; width:100%; max-width:none; height:320px; object-fit:cover; object-position:center 35%; border-radius:5px;" />
 
-<img src="/images/prairie.png"
-     alt="Tallgrass prairie in Nebraska"
-     style="display:block; width:100%; max-height:280px; object-fit:cover; border-radius:5px; margin-bottom:0.6rem;" />
+  <div style="position:absolute; left:0; right:0; top:0; bottom:0; pointer-events:none;">
+    <div style="position:absolute; top:1.2rem; left:1.35rem; max-width:62%;
+                color:white; text-shadow:0 1px 2px rgba(0,0,0,0.35);">
+      <div style="font-size:0.88em; line-height:1.28;">
+        “I felt that the grass was the country, as the water is the sea. ... And there was so much motion in it; the whole country seemed, somehow, to be running.”
+      </div>
+      <div style="margin-top:0.35rem; font-size:0.82em; line-height:1.2; opacity:0.97;">
+        — Willa Cather, <em>My Ántonia</em>
+      </div>
+    </div>
+  </div>
+</div>
 
-“As I looked about me, I felt that the grass was the country, as the water is the sea. The red of the grass made all the great prairie the color of wine stains, or of certain seaweeds when they are first washed up. And there was so much motion in it; the whole country seemed, somehow, to be running.”<br>
-— **Willa Cather, <i>My Ántonia</i>**
-{: .notice}
+<div style="font-size:0.72em; line-height:1.3; color:#777; text-align:right; margin:-0.35rem 0 1.5rem 0;">
+  Spring Creek Prairie Audubon Center in Denton, Nebraska. Photo by Kate Lagerstrom.
+</div>
 
 I am a microbial ecologist and postdoctoral researcher in the Department of Ecology and Evolutionary Biology at Princeton University. I study how human activities reshape wildlife-associated microbial communities, with implications for animal health, conservation, and the interconnected health of humans, animals, and their environments.
 

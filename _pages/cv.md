@@ -40,6 +40,8 @@ Research experience
 
 Publications
 ------
+* **Lagerstrom, K. M.**, Dobson, A. P., Campbell-Staton, S. and Moeller, A. H. 2026. How do anthropogenic change affect wildlife microbiomes? *PLOS Biology*; accepted.
+
 * **Lagerstrom, K. M.**, Scales, N. C., and Hadly, E. A. 2024. Impressive pan-genomic diversity of *E. coli* from a wild animal community near urban development reflects human impacts. *iScience* **27**(3); 109072. [https://doi.org/10.1016/j.isci.2024.109072](https://doi.org/10.1016/j.isci.2024.109072)
 
 * **Lagerstrom, K. M.**, Vance, S., San Juan, P. A., Gupta, T. D., and Hadly, E. A. 2023. Utilizing animal gut microbiomes to mitigate biodiversity loss in the Anthropocene. *Evolutionary Ecology Research* **2023**; 29-43. [PDF](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.evolutionary-ecology.com/Biodiversity%20Challenge/Lagerstrom.pdf)
@@ -81,7 +83,7 @@ Presentations at professional meetings
 Invited talks
 ------
 * Alumni Fireside Chat for CASNR Honors Program, University of Nebraska-Lincoln; 2024 April; Lincoln, NE, U.S.A.
-* “The wild side of E. coli: Investigating the distribution and diversity of *Escherichia coli* in wild animals at Jasper Ridge”; Jasper Ridge Biological Preserve Evening Lecture Series; 2022 April; Stanford, CA, U.S.A.
+* “The wild side of <i>E. coli</i>: Investigating the distribution and diversity of *Escherichia coli* in wild animals at Jasper Ridge”; Jasper Ridge Biological Preserve Evening Lecture Series; 2022 April; Stanford, CA, U.S.A.
 * “ABR and Public Health”; ENVR189H Honors Seminar, University of Nebraska-Lincoln; 2020 November; Lincoln, NE, U.S.A.
   
 Service and leadership

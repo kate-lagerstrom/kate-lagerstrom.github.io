@@ -3,10 +3,15 @@ permalink: /research/dissertation/
 title: "The wild side of <i>E. coli</i>"
 author_profile: true
 ---
+<figure style="margin:0 0 1.5rem 0;">
+  <img src="/images/jasper.jpg"
+       alt="Searsville Lake viewed from Searsville Dam at Jasper Ridge Biological Preserve"
+       style="display:block; width:100%; max-height:320px; object-fit:cover; border-radius:5px; margin:0;" />
 
-<img src="/images/jasper.png"
-     alt="View from Searsville Dam at Jasper Ridge Biological Preserve"
-     style="display:block; width:100%; max-height:250px; object-fit:cover; border-radius:5px; margin:0 auto 1.5rem auto;" />
+  <figcaption style="font-size:0.72em; line-height:1.3; color:#777; text-align:right; margin-top:0.3rem;">
+    Searsville Lake, viewed from Searsville Dam at Jasper Ridge Biological Preserve, where I conducted my dissertation fieldwork. Photo by Kate Lagerstrom.
+  </figcaption>
+</figure>
 
 My doctoral research examined how human activity influences the ecology and evolution of <i>Escherichia coli</i> in wildlife at the wildland–urban interface. Although <i>E. coli</i> is among the best-studied bacteria in humans and domestic animals, its diversity and ecology in free-living wildlife remain surprisingly poorly understood.
 
@@ -65,15 +70,14 @@ Seventeen percent of the isolates carried one or more antimicrobial resistance g
     </p>
   </div>
 
-  <figure style="flex:0 1 210px; max-width:210px; margin:0 auto; text-align:center;">
+  <figure style="flex:0 0 230px; width:230px; margin:0; text-align:center; align-self:flex-start;">
     <img src="/images/gotecoli.png"
-         alt="Got E. coli artwork grown on an agar plate"
-         style="display:block; width:100%; height:auto; border-radius:6px;" />
+         alt="The words Got E. coli drawn on an agar plate using an isolate recovered from a wild animal at Jasper Ridge Biological Preserve"
+         style="display:block; width:100%; height:auto; margin:0; border-radius:5px;" />
 
-    <figcaption style="font-size:0.78em; line-height:1.35; color:#666; margin-top:0.45rem;">
-      “Got <i>E. coli</i>?” drawn using an isolate recovered from a wild animal at Jasper Ridge.
+    <figcaption style="font-size:0.72em; line-height:1.3; color:#777; text-align:center; margin-top:0.3rem;">
+      “Got <em>E. coli</em>?” drawn using an isolate recovered from a wild animal at Jasper Ridge Biological Preserve. Photo by Kate Lagerstrom.
     </figcaption>
   </figure>
 
 </div>
-
