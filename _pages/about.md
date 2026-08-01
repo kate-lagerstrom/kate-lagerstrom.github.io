@@ -1,47 +1,49 @@
 ---
+layout: archive
 permalink: /
 title: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
+<div style="position:relative; margin:0 0 1rem 0;">
+  <img src="/images/prairie.jpg"
+       alt="Tallgrass prairie at Spring Creek Prairie Audubon Center in Denton, Nebraska"
+       style="display:block; width:100%; max-width:none; height:320px; object-fit:cover; object-position:center 35%; border-radius:5px;" />
 
-![alt text](images/prairie.png)
+  <div style="position:absolute; left:0; right:0; top:0; bottom:0; pointer-events:none;">
+    <div style="position:absolute; top:1.2rem; left:1.35rem; max-width:62%;
+                color:white; text-shadow:0 1px 2px rgba(0,0,0,0.35);">
+      <div style="font-size:0.88em; line-height:1.28;">
+        “I felt that the grass was the country, as the water is the sea. ... And there was so much motion in it; the whole country seemed, somehow, to be running.”
+      </div>
+      <div style="margin-top:0.35rem; font-size:0.82em; line-height:1.2; opacity:0.97;">
+        — Willa Cather, <em>My Ántonia</em>
+      </div>
+    </div>
+  </div>
+</div>
 
-"As I looked about me, I felt that the grass was the country, as the water is the sea. The red of the grass made all the great prairie the color of wine stains, or of certain seaweeds when they are first washed up. And there was so much motion in it; the whole country seemed, somehow, to be running.”
-― **Willa Cather, <i>My Ántonia</i>**
-{: .notice}
+<div style="font-size:0.72em; line-height:1.3; color:#777; text-align:right; margin:-0.35rem 0 1.5rem 0;">
+  Spring Creek Prairie Audubon Center in Denton, Nebraska. Photo by Kate Lagerstrom.
+</div>
 
-Home is Nebraska
-------
-I have many fond memories of growing up in Nebraska. I spent my childhood outdoors with my brother and the neighbor kids riding bikes, playing four-square, digging for worms, pretending to be the “Boxcar Children” under the porch, and playing “Ghost in the Graveyard” after the sun went down. I'm grateful to my mom who encouraged this and implored the coordinators of a summer nature camp to let me start a year early, at the age of 5. I absolutely loved it. My favorite camp counselors were nicknamed “Bones” and “Roadkill”, and we went on hikes, dug through owl pellets, took cast molds of animal tracks, and played in the soft clay at the bottom of the river. When I wasn’t outside, I spent hours glued to the TV watching the Crocodile Hunter. I was absolutely obsessed with Steve Irwin and wanted to grow up to be just like him. I accredit the earliest of my fascination with wildlife to him. He was also the reason I begged my mom for a pet snake. When she finally gave in, I got a corn snake, whom I named Freckles for the spots down his back (but "Spot" was a dog name). I kept an eclectic mix of pets including ducks, mice, frogs, fish, dogs, cats, and various interesting insects that occupied my bug box (built-in magnifying glass included). Nebraska will always be home to me, and I’m proud to say that I’ve made at least one trip to the native tallgrass prairie near my home every year of my life so far (including the one spent <i>in utero</i>). I still spend as much time as I can outdoors, but now it’s walking my Gordon Setter, Kona, or reading a good book. 
+I am a microbial ecologist and postdoctoral researcher in the Department of Ecology and Evolutionary Biology at Princeton University. I study how human activities reshape wildlife-associated microbial communities, with implications for animal health, conservation, and the interconnected health of humans, animals, and their environments.
 
-<img src="images/kona.png" 
-        alt="Kona" 
-        width="400" 
-        height="200" 
-        style="display: block; margin: 0 auto" />
+My current research examines how pollution, habitat transformation, and altered contact between humans and wildlife influence the transmission and evolution of host-associated bacteria. I combine comparative and strain-resolved metagenomics with experimental approaches to investigate whether human-associated microbes establish in animal microbiomes and how exposure to antibiotics and agrochemicals may affect microbial communities and antimicrobial resistance.
 
-The perpetual student
--------
-I completed my undergraduate career at the University of Nebraska-Lincoln (go Huskers!) where I double-majored in Microbiology and Environmental Studies and minored in Mathematics. I was also a member of a lab in the Plant Pathology Department where I learned invaluable technical lab and research skills from my graduate student mentor as we studied the pathogenesis of the common crop pathogen, <i>Pseudomonas syringae</i>. I also spent a semester abroad in Dunedin, New Zealand, at the University of Otago. While traveling after classes, I had the chance to spend a month in Thailand and Malaysia. There, I witnessed the increasing challenges of a growing world population and saw the effects of climate change firsthand. I also observed poverty worse than I had ever imagined. These experiences solidified my decision to apply to graduate school in biological research; I saw a realistic opportunity to contribute to improving life on a global scale. 
+I completed my Ph.D. in Biology at Stanford University, where my dissertation explored the ecology and genomic diversity of <i>Escherichia coli</i> in wild animals living at the wildland–urban interface. This work revealed extensive and previously underappreciated bacterial diversity within a single wildlife community, including antimicrobial-resistant, potentially pathogenic, and human-associated strains.
 
-Thus, I spent the next six years experiencing life on the West Coast, in Palo Alto, California, where I completed my PhD in the Ecology and Evolution track of the Biology Department at Stanford University. For my dissertation work, I investigated the ecology and evolution of <i>Escherichia coli</i> in wild animals using a combination of culture-based methods and whole genome sequencing. Broader impacts of this work include informing the propensity for wildlife to harbor and transmit pathogenic and antibiotic-resistant <i>E. coli</i> and even act as "melting pots" of novel genetic combinations that could threaten global public health. 
+Across my work, I aim to understand how environmental change affects the microscopic communities on which animals depend—and how studying these interactions can support wildlife conservation and One Health.
 
-I recently ventured to the East Coast to begin a post-doctoral research associate position at Princeton University in the Department of Ecology and Evolutionary Biology. Here, I continue to expand upon my graduate work by studying the impacts of anthropogenic pollution on host-associated microbial communities using a combination of experimental and observational approaches. Through my research investigations, I seek to disentangle the ecological interactions between wild animal microbiomes, their immune systems, and pathogens, which will help safeguard human and animal health and inform conservation efforts.
+Beyond research
+---------------
+I grew up in Nebraska, where summer nature camps, annual visits to the native tallgrass prairie, and many hours spent watching Steve Irwin fostered my fascination with wildlife. The Crocodile Hunter inspired me to want a snake, and after nearly a year of pleading—while my mom waited to see whether it was only a passing phase—she finally agreed when I was eight. I named my new coral-colored corn snake Freckles. She joined a lively menagerie that included my best buddy Milo, a golden retriever, two mallard ducks, a white mouse, and several betta fish. Outside of research, I enjoy reading, yoga, traveling, and spending time outdoors with my Gordon Setter, Kona.
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:1rem; margin:1.25rem 0 1.75rem 0;">
+  <img src="/images/kona.png"
+       alt="Kona, my Gordon Setter"
+       style="display:block; width:100%; max-width:285px; height:auto; border-radius:6px;" />
+</div>
 
-
-Quotes that motivate me
-------
-“Most of what is understandable is not yet understood.” (Unknown)
-
-“The more you know, the more you know you don’t know.” (Aristotle)
-
-“There are known knowns. These are things we know that we know. There are known unknowns. That is to say, there are things that we know we don't know. But there are also unknown unknowns. There are things we don't know we don't know.” (Donald Rumsfeld)
-
-“Just keep swimming, swimming, swimming.” (Dory, Finding Nemo)
-
-**Acknowledgements**
-A fair amount of time into graduate school, the only things I associated the word “terminal” with had to do with air travel or unwanted diagnoses. To-date, my progress with coding has advanced on a need-to-know basis. (I’ll admit, despite many frustrations, the rush from successfully troubleshooting code is kind of addictive). I couldn’t have accomplished the feat of website creation without the incredibly thorough help of Rob Williams’ blog post [Building an Academic Website](https://jayrobwilliams.com/posts/2020/06/academic-website/) and Moncef Belyamani’s post [The fastest and easiest way to install Ruby on a Mac in 2024](https://www.moncefbelyamani.com/how-to-install-xcode-homebrew-git-rvm-ruby-on-mac/#configure-your-shell).
-{: .notice}
+[Learn more about my research](/research/) or view my [publications](/publications/) and [CV](/cv/).

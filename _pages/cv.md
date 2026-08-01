@@ -11,6 +11,10 @@ redirect_from:
 
 Download a PDF version of my CV [here](http://kate-lagerstrom.github.io/files/Lagerstrom_Katherine_M_CV.pdf)
 
+Professional experience
+------
+* October 2024-Present: Postdoctoral Research Associate, Department of Ecology and Evolutionary Biology, **Princeton University**
+
 Education
 ------
 * Ph.D. in Biology, **Stanford University**, 2023
@@ -36,6 +40,8 @@ Research experience
 
 Publications
 ------
+* **Lagerstrom, K. M.**, Dobson, A. P., Campbell-Staton, S. and Moeller, A. H. 2026. How do anthropogenic change affect wildlife microbiomes? *PLOS Biology*; accepted.
+
 * **Lagerstrom, K. M.**, Scales, N. C., and Hadly, E. A. 2024. Impressive pan-genomic diversity of *E. coli* from a wild animal community near urban development reflects human impacts. *iScience* **27**(3); 109072. [https://doi.org/10.1016/j.isci.2024.109072](https://doi.org/10.1016/j.isci.2024.109072)
 
 * **Lagerstrom, K. M.**, Vance, S., San Juan, P. A., Gupta, T. D., and Hadly, E. A. 2023. Utilizing animal gut microbiomes to mitigate biodiversity loss in the Anthropocene. *Evolutionary Ecology Research* **2023**; 29-43. [PDF](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.evolutionary-ecology.com/Biodiversity%20Challenge/Lagerstrom.pdf)
@@ -54,6 +60,12 @@ Publications
   
 Presentations at professional meetings
 ------
+* **Lagerstrom, K. M.** and Moeller, A. H. Strain-resolved analyses provide evidence for human-to-animal bacterial transmission in captivity. Poster Presentation at: Ecology and Evolution of Infectious Disease Conference; 2026 June; Blacksburg, VA, U.S.A.
+
+* **Lagerstrom, K. M.** and Moeller, A. H. Strain-resolved analyses reveal bacterial transmission from humans to captive mammals. Poster Presentation at: Eastern Regional Ecology and Evolution of Infectious Disease Conference; 2025 November; State College, PA, U.S.A.
+
+* **Lagerstrom, K. M.** and Moeller, A. H. Strain-resolved analyses reveal bacterial transmission from humans to captive mammals. Poster Presentation at: Ecology and Evolution of Infectious Disease Conference; 2025 June; South Bend, IN, U.S.A.
+
 * **Lagerstrom, K. M.** and Hadly, E. A. Understanding the eco-evolutionary dynamics of *Escherichia coli* in animals at the wildland-urban interface for public health and conservation. Poster Presentation at: Ecology and Evolution of Infectious Disease Conference; 2024 June; Stanford, CA, U.S.A.
 
 * **Lagerstrom, K. M.** and Hadly, E. A. Understanding the eco-evolutionary dynamics of *Escherichia coli* in animals at the wildland-urban interface for public health and conservation. Poster Presentation at: ESA Annual Meeting; 2023 August; Portland, OR, U.S.A.
@@ -71,36 +83,18 @@ Presentations at professional meetings
 Invited talks
 ------
 * Alumni Fireside Chat for CASNR Honors Program, University of Nebraska-Lincoln; 2024 April; Lincoln, NE, U.S.A.
-* “The wild side of E. coli: Investigating the distribution and diversity of *Escherichia coli* in wild animals at Jasper Ridge”; Jasper Ridge Biological Preserve Evening Lecture Series; 2022 April; Stanford, CA, U.S.A.
+* “The wild side of <i>E. coli</i>: Investigating the distribution and diversity of *Escherichia coli* in wild animals at Jasper Ridge”; Jasper Ridge Biological Preserve Evening Lecture Series; 2022 April; Stanford, CA, U.S.A.
 * “ABR and Public Health”; ENVR189H Honors Seminar, University of Nebraska-Lincoln; 2020 November; Lincoln, NE, U.S.A.
-
-Teaching and mentorship
-------
-* 2022-Present **Research mentor**; *40 high school students’ independent research projects*, Polygence
-
-* 2022 **Teaching assistant**; *Ecology (Bio 81)*, Stanford University
-
-* 2022 **Instructor/course designer**; *Introduction to Nanopore Sequencing*, Stanford University
-
-* 2022 **Research mentor**; Engage with Girls is STEM (EWGIS) Research Program
-
-* 2020 **Research mentor**; *Basser Program*, Stanford University
-
-* 2019 **Research mentor**; *Biology Summer Undergraduate Research Program (BSURP)*, Stanford University
-
-* 2018 **Research mentor**; *Vice Provost for Undergraduate Education (VPUE) Summer Research Program*, Stanford University
-
-* 2018 **Teaching assistant**; *Ecology for Everyone (Bio 30)*, Stanford University
-
-* 2018 **Teaching assistant**; *Ecology (Bio 81)*, Stanford University
-
-* 2013-2014 **Teacher**; *YWCA SMART Girls after-school program*, McPhee Elementary
-
-* 2011-2014 **Teaching assistant**; *Bright Lights Summer Camp*, Lincoln Public Schools
   
 Service and leadership
 ------
-* 2024-Present **Executive committee member**; *Board of Trustees*, Applied Microbiology International (AMI)
+* 2026–Present	**Volunteer reviewer**; Journal of Emerging Investigators (JEI)
+
+* 2025–Present	**Co-chair**; *One Health Advisory Group*, Applied Microbiology International (AMI)
+
+* 2025–Present	**Pacific Committee member**; Microbiome Virtual International Forum
+
+* 2024-Present **Trustee**; *Board of Trustees*, Applied Microbiology International (AMI)
 
 * 2024-Present **Member**; *One Health Advisory Group*, Applied Microbiology International (AMI)
 
@@ -133,3 +127,35 @@ Service and leadership
 * 2014-2016 **President**; *Microbiology Club*, University of Nebraska-Lincoln
 
 * 2014, 2016 **Lab station coordinator**; *UNL Women in Science Conference*, University of Nebraska-Lincoln
+
+Teaching and mentorship
+------
+* 2022-Present **Research mentor**; *60 high school students’ independent research projects*, Polygence
+
+* 2022 **Teaching assistant**; *Ecology (Bio 81)*, Stanford University
+
+* 2022 **Instructor/course designer**; *Introduction to Nanopore Sequencing*, Stanford University
+
+* 2022 **Research mentor**; Engage with Girls is STEM (EWGIS) Research Program
+
+* 2020 **Research mentor**; *Basser Program*, Stanford University
+
+* 2019 **Research mentor**; *Biology Summer Undergraduate Research Program (BSURP)*, Stanford University
+
+* 2018 **Research mentor**; *Vice Provost for Undergraduate Education (VPUE) Summer Research Program*, Stanford University
+
+* 2018 **Teaching assistant**; *Ecology for Everyone (Bio 30)*, Stanford University
+
+* 2018 **Teaching assistant**; *Ecology (Bio 81)*, Stanford University
+
+* 2013-2014 **Teacher**; *YWCA SMART Girls after-school program*, McPhee Elementary
+
+* 2011-2014 **Teaching assistant**; *Bright Lights Summer Camp*, Lincoln Public Schools
+
+Fellowships and grants
+------
+* 2026	Gordon and Betty Moore Foundation Postdoctoral Commitment Program	
+
+* 2018–2020	Philippe Cohen Fellowship
+
+
