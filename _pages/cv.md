@@ -40,7 +40,7 @@ Research experience
 
 Publications
 ------
-* **Lagerstrom, K. M.**, Dobson, A. P., Campbell-Staton, S. and Moeller, A. H. 2026. How do anthropogenic change affect wildlife microbiomes? *PLOS Biology*; accepted.
+* **Lagerstrom, K. M.**, Dobson, A. P., Campbell-Staton, S., and Moeller, A. H. 2026. How do anthropogenic changes affect wildlife microbiomes? *PLOS Biology* **24**(8): e3003939. [https://doi.org/10.1371/journal.pbio.3003939](https://doi.org/10.1371/journal.pbio.3003939)
 
 * **Lagerstrom, K. M.**, Scales, N. C., and Hadly, E. A. 2024. Impressive pan-genomic diversity of *E. coli* from a wild animal community near urban development reflects human impacts. *iScience* **27**(3); 109072. [https://doi.org/10.1016/j.isci.2024.109072](https://doi.org/10.1016/j.isci.2024.109072)
 
@@ -60,6 +60,8 @@ Publications
   
 Presentations at professional meetings
 ------
+* **Lagerstrom, K. M.** and Moeller, A. H. From communities to strains: Humanization of captive animal gut microbiomes. Oral Presentation at: Eastern Regional Ecology and Evolution of Infectious Disease Conference; 2026 November; Ithaca, NY, U.S.A.
+
 * **Lagerstrom, K. M.** and Moeller, A. H. Strain-resolved analyses provide evidence for human-to-animal bacterial transmission in captivity. Poster Presentation at: Ecology and Evolution of Infectious Disease Conference; 2026 June; Blacksburg, VA, U.S.A.
 
 * **Lagerstrom, K. M.** and Moeller, A. H. Strain-resolved analyses reveal bacterial transmission from humans to captive mammals. Poster Presentation at: Eastern Regional Ecology and Evolution of Infectious Disease Conference; 2025 November; State College, PA, U.S.A.
@@ -88,6 +90,8 @@ Invited talks
   
 Service and leadership
 ------
+* 2026–Present	**Member**; Women in Science Partnership (WiSP), Department of Ecology and Evolutionary Biology, Princeton University
+
 * 2026–Present	**Volunteer reviewer**; Journal of Emerging Investigators (JEI)
 
 * 2025–Present	**Co-chair**; *One Health Advisory Group*, Applied Microbiology International (AMI)
@@ -130,7 +134,7 @@ Service and leadership
 
 Teaching and mentorship
 ------
-* 2022-Present **Research mentor**; *60 high school students’ independent research projects*, Polygence
+* 2022-Present **Research mentor**; *60+ high school students’ independent research projects*
 
 * 2022 **Teaching assistant**; *Ecology (Bio 81)*, Stanford University
 
@@ -154,6 +158,8 @@ Teaching and mentorship
 
 Fellowships and grants
 ------
+* 2026 **L'Oréal USA For Women in Science Award** ($75,000)
+
 * 2026	Gordon and Betty Moore Foundation Postdoctoral Commitment Program	
 
 * 2018–2020	Philippe Cohen Fellowship
